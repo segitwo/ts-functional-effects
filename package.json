@@ -1,0 +1,19 @@
+{
+  "name": "formvalidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fp-ts": "^2.11.2",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
